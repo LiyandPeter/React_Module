@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import Header from './components/Header';
-import AuthContainer from './components/AuthContainer';
+import Header from '../src/componemts/Header';
+import AuthContainer from '../src/componemts/AuthContainer';
 import './App.css';
 
 function App() {

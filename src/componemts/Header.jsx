@@ -1,5 +1,5 @@
 import React from 'react';
-import NavLink from './AuthContainer';
+import NavLink from '../componemts/NavLink';
 
 function Header() {
   return (
