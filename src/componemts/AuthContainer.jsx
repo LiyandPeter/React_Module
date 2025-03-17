@@ -1,6 +1,6 @@
 import React from 'react';
-import LoginForm from './LoginForm';
-import RegisterForm from './RegisterForm';
+import LoginForm from './Login';
+import RegisterForm from './Regist';
 
 function AuthContainer() {
   return (
